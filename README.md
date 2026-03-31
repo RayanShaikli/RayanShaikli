@@ -28,7 +28,7 @@ Senior data and AI systems professional based in Toronto. I work at the intersec
 **🤖 Self-Hosted Multi-Agent AI System** *(Live 24/7)*
 A production multi-agent system running on a Raspberry Pi 5 — zero cloud costs. Includes a Telegram-based task router and Nia, a research agent that autonomously pulls web data, synthesizes intelligence, and delivers structured briefings via email daily.
 
-→ See the repo: [multi-agent-directory](#) *(coming soon)*
+→ See the repo: [multi-agent-directory](https://github.com/RayanShaikli/multi-agent-directory)
 
 ---
 
